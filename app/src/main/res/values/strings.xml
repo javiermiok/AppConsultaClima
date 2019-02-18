@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Consulta el Clima</string>
+    <string name="tv_latitud">Latitud:</string>
+    <string name="et_latitud_hint">  ej 40.5</string>
+    <string name="tv_longitud">Longitud:</string>
+    <string name="et_longitud_hint">  ej -3.7</string>
+    <string name="btn_consultar">Consultar Clima</string>
+
+    <string name="toast_campos_vacios">Hay que rellenar todos los campos</string>
+    <string name="toast_response_unsuccessful">Respuesta sin éxito</string>
+    <string name="toast_failure"><![CDATA[Fallo en el callback<Localizacion>]]></string>
+</resources>
